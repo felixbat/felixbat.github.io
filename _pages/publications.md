@@ -16,4 +16,4 @@ Batsch, F., Kanarachos, S., Cheah, M., Ponticelli, R., & Blundell, M. (2022). **
 ## Conference articles
 
 Batsch, F., Daneshkhah, A., Cheah, M., Kanarachos, S., & Baxendale, A. (2019). **[Performance Boundary Identification for the Evaluation of Automated Vehicles using Gaussian Process Classification](https://felixbat.github.io/publication/20191027_ITSC_PerformanceBoundary/)**. <i>2019 IEEE Intelligent Transportation Systems Conference (ITSC)</i>, 419–424. doi: [10.1109/ITSC.2019.8917119](https://doi.org/10.1109/ITSC.2019.8917119)  
-[IEEE](https://ieeexplore.ieee.org/abstract/document/8917119 "Paper on IEEE") &#124; [arXiv](https://arxiv.org/pdf/1907.05364.pdf "Paper on arXiv") &#124; [bibtex](/files/20191027_ITSC_PerformanceBoundary.bib "bibtex citation")
+[IEEEXplore](https://ieeexplore.ieee.org/abstract/document/8917119 "Paper on IEEE") &#124; [arXiv](https://arxiv.org/pdf/1907.05364.pdf "Paper on arXiv") &#124; [bibtex](/files/20191027_ITSC_PerformanceBoundary.bib "bibtex citation")
