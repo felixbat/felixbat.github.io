@@ -18,6 +18,7 @@ Education
 
 Work experience
 ======
+TODO!!
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
@@ -52,12 +53,16 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Supervision of Bachelor and Master students for their dissertation projects at Coventry University
+* Coordination of Coventry University's activities within the Horizon 2020 Action ARCADE (Aligning Research &
+Innovation for Connected and Automated Driving in Europe)
+* Certiﬁed alpine ski and climbing instructor, weekly mentoring of a DAV kids climbing group (2009 - 2016)
+* Founded and established a university-based American Football program for students at KIT (2013 - 2016)
