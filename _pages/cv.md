@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Computer Science, Coventry University, 2022 (expected)
+* M.Eng. in Vehicle Engineering, Tongji Univeristy, 2017
+* M.Sc. in Mechanical Engineering, Karlsruhe Institute of Technology (KIT), 2017
+* B.Sc. in Mechanical Engineering, Karlsruhe Institute of Technology (KIT), 2015
 
 Work experience
 ======
@@ -29,12 +30,15 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Linux
+* Python (NumPy, SciPy, sklearn, matplotlib)
+* R (Statistical Programming)
+* Docker and Git (Agile Software Development)
+* Matlab/Simulink (System Design and Development)
+* LabView (System Design and Development)
+* IPG Carmaker (Vehicle Simulation)
+* Unreal Engine (3D physics simulation)
+* Latex (Typesetting)
 
 Publications
 ======
