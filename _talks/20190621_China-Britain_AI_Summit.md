@@ -8,4 +8,4 @@ date: 2019-06-21
 location: "London, United Kingdom"
 ---
 
-![Speakers](images/CBAIS_Speakers.jpg "Speakers")
+<img src='images/CBAIS_Speakers.jpg' alt="Speakers" width="800" />
