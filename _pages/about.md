@@ -10,6 +10,8 @@ redirect_from:
 
 I am a PhD student in the field of autonomous vehicle research. My doctoral studies are within a collaborative research project between Coventry University and HORIBA MIRA. I am a member of the Institute for Future Transport and Cities (FTC) at Coventry University and the Centre for Connected Autonomous Automotive Research (CCAAR) at HORIBA MIRA.
 
+Email: batschf@coventry.ac.uk
+
 Current work and research
 ------
 Detail current work
