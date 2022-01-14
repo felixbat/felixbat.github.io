@@ -23,17 +23,6 @@ Work experience
 04/2017 - 10/2017: &nbsp; Master Thesis Internship; Bosch (China) Investment Ltd.; Shanghai, China  
 06/2015 - 12/2015: &nbsp; University Research Assistant; wbk Institute for Production Science (KIT); Karlsruhe, Germany   
 01/2015 - 03/2015: &nbsp; Internship; ZF Friedrichshafen AG; Friedrichshafen, Germany
-
-TODO!!
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
@@ -67,7 +56,7 @@ Talks
   
 Service and leadership
 ======
-* [Supervision](/pages/teaching) of Bachelor and Master students for their dissertation projects at Coventry University
+* [Supervision](/teaching) of Bachelor and Master students for their dissertation projects at Coventry University
 * Coordination of Coventry University's activities within the Horizon 2020 Action ARCADE (Aligning Research &
 Innovation for Connected and Automated Driving in Europe)
 * Certiﬁed alpine ski and climbing instructor, weekly mentoring of a DAV kids climbing group (2009 - 2016)
