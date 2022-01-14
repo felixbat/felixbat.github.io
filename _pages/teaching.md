@@ -5,8 +5,14 @@ permalink: /teaching/
 author_profile: true
 ---
 
-|Title | Course | Student | Date |
-| ---- | ------ | ------- | ---- |
+<style>
+td {
+  font-size: 50px
+}
+</style>
+
+|Dissertation title | Course | Student | Date |
+| ----------------- | ------ | ------- | ---- |
 | Model predictive control design for improved vehicle steering control  | BEng Mechanical Engineering | Jeer H. | March 2020 |
 | Design and implementation of a behaviour generation module for dedicated low speed automated vehicle application | MSc Control, Automation and Artificial Intelligence | Li Z. | July 2020 |
 | Behaviour of Automated Valet Parking | MSc Control, Automation and Artificial Intelligence | Stephen E. | July 2020 |
