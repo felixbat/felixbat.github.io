@@ -9,9 +9,12 @@ author_profile: true
 td {
   font-size: 20px
 }
+th {
+  font-size: 20px
+}
 </style>
 
-|## Dissertation title | ## Course | ##  Student | ## Date |
+| Dissertation title | Course | Student | Date |
 | ----------------- | ------ | ------- | ---- |
 | Model predictive control design for improved vehicle steering control  | BEng Mechanical Engineering | Jeer H. | March 2020 |
 | Design and implementation of a behaviour generation module for dedicated low speed automated vehicle application | MSc Control, Automation and Artificial Intelligence | Li Z. | July 2020 |
