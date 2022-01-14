@@ -15,7 +15,7 @@ Email: batschf@coventry.ac.uk
 
 Current work and research
 ------
-Detail current work
+My current work focuses on the ...
 
 Background
 ------
