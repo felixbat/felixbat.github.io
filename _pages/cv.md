@@ -7,12 +7,6 @@ redirect_from:
   - /resume
 ---
 
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-
 {% include base_path %}
 
 Education
@@ -25,11 +19,10 @@ Education
 Work experience
 ======
 
-| 01/2018 - Current: | Doctoral Resarch; HORIBA MIRA Ltd.; Nuneaton, United Kingdom |  
-| ----- | ----- |
-| 04/2017 - 10/2017: | Master Thesis Internship; Bosch (China) Investment Ltd.; Shanghai, China |  
-| 06/2015 - 12/2015: | University Research Assistant; wbk Institute for Production Science (KIT); Karlsruhe, Germany |  
-| 01/2015 - 03/2015: | Internship; ZF Friedrichshafen AG; Friedrichshafen, Germany |
+01/2018 -  Current: &nbts; Doctoral Resarch; HORIBA MIRA Ltd.; Nuneaton, United Kingdom  
+04/2017 - 10/2017: &nbts; Master Thesis Internship; Bosch (China) Investment Ltd.; Shanghai, China  
+06/2015 - 12/2015: &nbts; University Research Assistant; wbk Institute for Production Science (KIT); Karlsruhe, Germany   
+01/2015 - 03/2015: &nbts; Internship; ZF Friedrichshafen AG; Friedrichshafen, Germany
 
 TODO!!
 * Summer 2015: Research Assistant
