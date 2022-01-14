@@ -7,7 +7,7 @@ author_profile: true
 
 <style>
 td {
-  font-size: 20px
+  font-size: 18px
 }
 th {
   font-size: 20px
