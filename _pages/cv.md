@@ -7,6 +7,12 @@ redirect_from:
   - /resume
 ---
 
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
 {% include base_path %}
 
 Education
@@ -18,6 +24,11 @@ Education
 
 Work experience
 ======
+01/2018 - Current: | Doctoral Resarch; HORIBA MIRA Ltd.; Nuneaton, United Kingdom  
+04/2017 - 10/2017: | Master Thesis Internship; Bosch (China) Investment Ltd.; Shanghai, China  
+06/2015 - 12/2015: | University Research Assistant; wbk Institute for Production Science (KIT); Karlsruhe, Germany  
+01/2015 - 03/2015: | Internship; ZF Friedrichshafen AG; Friedrichshafen, Germany  
+
 TODO!!
 * Summer 2015: Research Assistant
   * Github University
@@ -61,7 +72,7 @@ Talks
   
 Service and leadership
 ======
-* Supervision of Bachelor and Master students for their dissertation projects at Coventry University
+* [Supervision](/pages/teaching) of Bachelor and Master students for their dissertation projects at Coventry University
 * Coordination of Coventry University's activities within the Horizon 2020 Action ARCADE (Aligning Research &
 Innovation for Connected and Automated Driving in Europe)
 * Certiﬁed alpine ski and climbing instructor, weekly mentoring of a DAV kids climbing group (2009 - 2016)
