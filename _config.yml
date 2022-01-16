@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Felix Batsch"
 title_separator          : "-"
 name                     : &name "Felix Batsch"
-description              : &description "personal description"
+description              : &description "My personal website"
 url                      : https://felixbat.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "felixbat/felixbat.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Felix Batsch"
   avatar           : "0002_300.jpg"
-  bio              : "Doctoral Researcher in ..."
+  bio              : "Doctoral Researcher in Machine Learning and Autonomous Driving"
   location         : "United Kingdom"
   employer         :
   pubmed           :
