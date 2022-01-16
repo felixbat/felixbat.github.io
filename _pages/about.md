@@ -15,7 +15,10 @@ Email: batschf@coventry.ac.uk
 
 Current work and research
 ------
-My current work focuses on the ...
+My current work is in the area of scenario-based testing of automated vehicles. I am developing new methods for testing and validating autonomous driving functions by leaveraging digital twins (simulation or SiL) with supervised machine learning.  
+Within my PhD, I have developed an automated simulation platform under the Bayesian paradigm, where the criticality of logical scenarios is characterised and continously updated, as new scenarios are simulated. This allows for a holistic characterisation of the criticalty throughout the logical scenario space, helping to identify safety critical scenarios. It also provides a measure of coverage for a given logical scenario. 
+
+I have further research interests in the area of model predictive control for behaviour generation and path planning of autonomous vehicles.
 
 Background
 ------
